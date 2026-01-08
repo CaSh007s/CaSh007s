@@ -124,8 +124,7 @@
 
 <hr>
 
-<img src="https://raw.githubusercontent.com/CaSh007s/CaSh007s/output/snake.svg" alt="Snake animation" />
-
+![Snake Animation](https://github.com/CaSh007s/CaSh007s/raw/output/snake.svg)
 <hr>
 
 <div>
