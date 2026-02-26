@@ -7,7 +7,7 @@
 <a href="https://github.com/CaSh007s/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&pause=1000&color=1CF709&center=true&vCenter=true&width=435&lines=Welcome.;Web+Dev+%7C+Python+%7C+Data+Science;Think.+Code.+Create." alt="Typing SVG" /></a>
 
-<hr>
+###
 
 <div align="center">
 
