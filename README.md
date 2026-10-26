@@ -19,7 +19,7 @@
     <img src="assets/icons/linkedin.svg" width="52" height="40" alt="LinkedIn"/>
   </a>
 
-  <a href="https://kalashh.medium.com/" target="_blank">
+  <a href="https://cash007s.medium.com/" target="_blank">
     <img src="assets/icons/medium.svg" width="52" height="40" alt="Medium"/>
   </a>
 
